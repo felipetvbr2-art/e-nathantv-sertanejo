@@ -1,0 +1,206 @@
+#EXTM3U
+# Playlist de pesquisa Nathantv Sertanejo - 100 clipes
+# ATENCAO: os enderecos abaixo sao pesquisas do YouTube, nao streams diretos.
+# Um player IPTV comum provavelmente nao reproduzira paginas de pesquisa.
+# Use como catalogo/indice; para reproduzir, abra a pesquisa no YouTube ou substitua
+# cada URL por um link de video oficial que seu player suporte.
+#EXTINF:-1 tvg-name="001 - Ana Castela - Pipoco" group-title="SERTANEJO", 001 - Ana Castela - Pipoco
+https://www.youtube.com/results?search_query=Ana%20Castela%20Pipoco%20clipe%20oficial
+#EXTINF:-1 tvg-name="002 - Ana Castela - Nosso Quadro" group-title="SERTANEJO", 002 - Ana Castela - Nosso Quadro
+https://www.youtube.com/results?search_query=Ana%20Castela%20Nosso%20Quadro%20clipe%20oficial
+#EXTINF:-1 tvg-name="003 - Gusttavo Lima - Canudinho" group-title="SERTANEJO", 003 - Gusttavo Lima - Canudinho
+https://www.youtube.com/results?search_query=Gusttavo%20Lima%20Canudinho%20clipe%20oficial
+#EXTINF:-1 tvg-name="004 - Henrique & Juliano - Última Saudade" group-title="SERTANEJO", 004 - Henrique & Juliano - Última Saudade
+https://www.youtube.com/results?search_query=Henrique%20%26%20Juliano%20%C3%9Altima%20Saudade%20clipe%20oficial
+#EXTINF:-1 tvg-name="005 - Zé Neto & Cristiano - Oi Balde" group-title="SERTANEJO", 005 - Zé Neto & Cristiano - Oi Balde
+https://www.youtube.com/results?search_query=Z%C3%A9%20Neto%20%26%20Cristiano%20Oi%20Balde%20clipe%20oficial
+#EXTINF:-1 tvg-name="006 - Jorge & Mateus - Haverá Sinais" group-title="SERTANEJO", 006 - Jorge & Mateus - Haverá Sinais
+https://www.youtube.com/results?search_query=Jorge%20%26%20Mateus%20Haver%C3%A1%20Sinais%20clipe%20oficial
+#EXTINF:-1 tvg-name="007 - Matheus & Kauan - Vou Ter Que Superar" group-title="SERTANEJO", 007 - Matheus & Kauan - Vou Ter Que Superar
+https://www.youtube.com/results?search_query=Matheus%20%26%20Kauan%20Vou%20Ter%20Que%20Superar%20clipe%20oficial
+#EXTINF:-1 tvg-name="008 - Simone Mendes - Erro Gostoso" group-title="SERTANEJO", 008 - Simone Mendes - Erro Gostoso
+https://www.youtube.com/results?search_query=Simone%20Mendes%20Erro%20Gostoso%20clipe%20oficial
+#EXTINF:-1 tvg-name="009 - Marília Mendonça - Leão" group-title="SERTANEJO", 009 - Marília Mendonça - Leão
+https://www.youtube.com/results?search_query=Mar%C3%ADlia%20Mendon%C3%A7a%20Le%C3%A3o%20clipe%20oficial
+#EXTINF:-1 tvg-name="010 - Marília Mendonça - Infiel" group-title="SERTANEJO", 010 - Marília Mendonça - Infiel
+https://www.youtube.com/results?search_query=Mar%C3%ADlia%20Mendon%C3%A7a%20Infiel%20clipe%20oficial
+#EXTINF:-1 tvg-name="011 - Maiara & Maraisa - Medo Bobo" group-title="SERTANEJO", 011 - Maiara & Maraisa - Medo Bobo
+https://www.youtube.com/results?search_query=Maiara%20%26%20Maraisa%20Medo%20Bobo%20clipe%20oficial
+#EXTINF:-1 tvg-name="012 - Maiara & Maraisa - 10%" group-title="SERTANEJO", 012 - Maiara & Maraisa - 10%
+https://www.youtube.com/results?search_query=Maiara%20%26%20Maraisa%2010%25%20clipe%20oficial
+#EXTINF:-1 tvg-name="013 - Naiara Azevedo - 50 Reais" group-title="SERTANEJO", 013 - Naiara Azevedo - 50 Reais
+https://www.youtube.com/results?search_query=Naiara%20Azevedo%2050%20Reais%20clipe%20oficial
+#EXTINF:-1 tvg-name="014 - Gustavo Mioto - Impressionando os Anjos" group-title="SERTANEJO", 014 - Gustavo Mioto - Impressionando os Anjos
+https://www.youtube.com/results?search_query=Gustavo%20Mioto%20Impressionando%20os%20Anjos%20clipe%20oficial
+#EXTINF:-1 tvg-name="015 - Zé Neto & Cristiano - Largado às Traças" group-title="SERTANEJO", 015 - Zé Neto & Cristiano - Largado às Traças
+https://www.youtube.com/results?search_query=Z%C3%A9%20Neto%20%26%20Cristiano%20Largado%20%C3%A0s%20Tra%C3%A7as%20clipe%20oficial
+#EXTINF:-1 tvg-name="016 - Jorge & Mateus - Propaganda" group-title="SERTANEJO", 016 - Jorge & Mateus - Propaganda
+https://www.youtube.com/results?search_query=Jorge%20%26%20Mateus%20Propaganda%20clipe%20oficial
+#EXTINF:-1 tvg-name="017 - Bruno & Marrone - Dormi na Praça" group-title="SERTANEJO", 017 - Bruno & Marrone - Dormi na Praça
+https://www.youtube.com/results?search_query=Bruno%20%26%20Marrone%20Dormi%20na%20Pra%C3%A7a%20clipe%20oficial
+#EXTINF:-1 tvg-name="018 - Zezé Di Camargo & Luciano - É o Amor" group-title="SERTANEJO", 018 - Zezé Di Camargo & Luciano - É o Amor
+https://www.youtube.com/results?search_query=Zez%C3%A9%20Di%20Camargo%20%26%20Luciano%20%C3%89%20o%20Amor%20clipe%20oficial
+#EXTINF:-1 tvg-name="019 - Chitãozinho & Xororó - Evidências" group-title="SERTANEJO", 019 - Chitãozinho & Xororó - Evidências
+https://www.youtube.com/results?search_query=Chit%C3%A3ozinho%20%26%20Xoror%C3%B3%20Evid%C3%AAncias%20clipe%20oficial
+#EXTINF:-1 tvg-name="020 - Leonardo - Pense em Mim" group-title="SERTANEJO", 020 - Leonardo - Pense em Mim
+https://www.youtube.com/results?search_query=Leonardo%20Pense%20em%20Mim%20clipe%20oficial
+#EXTINF:-1 tvg-name="021 - Eduardo Costa - Olha Ela Aí" group-title="SERTANEJO", 021 - Eduardo Costa - Olha Ela Aí
+https://www.youtube.com/results?search_query=Eduardo%20Costa%20Olha%20Ela%20A%C3%AD%20clipe%20oficial
+#EXTINF:-1 tvg-name="022 - Rick & Renner - Ela é Demais" group-title="SERTANEJO", 022 - Rick & Renner - Ela é Demais
+https://www.youtube.com/results?search_query=Rick%20%26%20Renner%20Ela%20%C3%A9%20Demais%20clipe%20oficial
+#EXTINF:-1 tvg-name="023 - Milionário & José Rico - Estrada da Vida" group-title="SERTANEJO", 023 - Milionário & José Rico - Estrada da Vida
+https://www.youtube.com/results?search_query=Milion%C3%A1rio%20%26%20Jos%C3%A9%20Rico%20Estrada%20da%20Vida%20clipe%20oficial
+#EXTINF:-1 tvg-name="024 - João Paulo & Daniel - Estou Apaixonado" group-title="SERTANEJO", 024 - João Paulo & Daniel - Estou Apaixonado
+https://www.youtube.com/results?search_query=Jo%C3%A3o%20Paulo%20%26%20Daniel%20Estou%20Apaixonado%20clipe%20oficial
+#EXTINF:-1 tvg-name="025 - Teodoro & Sampaio - Vestido de Seda" group-title="SERTANEJO", 025 - Teodoro & Sampaio - Vestido de Seda
+https://www.youtube.com/results?search_query=Teodoro%20%26%20Sampaio%20Vestido%20de%20Seda%20clipe%20oficial
+#EXTINF:-1 tvg-name="026 - Jorge & Mateus - Gaivota" group-title="SERTANEJO", 026 - Jorge & Mateus - Gaivota
+https://www.youtube.com/results?search_query=Jorge%20%26%20Mateus%20Gaivota%20clipe%20oficial
+#EXTINF:-1 tvg-name="027 - Hugo & Guilherme - Mal Feito" group-title="SERTANEJO", 027 - Hugo & Guilherme - Mal Feito
+https://www.youtube.com/results?search_query=Hugo%20%26%20Guilherme%20Mal%20Feito%20clipe%20oficial
+#EXTINF:-1 tvg-name="028 - Israel & Rodolffo - Arruma Um Bão" group-title="SERTANEJO", 028 - Israel & Rodolffo - Arruma Um Bão
+https://www.youtube.com/results?search_query=Israel%20%26%20Rodolffo%20Arruma%20Um%20B%C3%A3o%20clipe%20oficial
+#EXTINF:-1 tvg-name="029 - Luan Santana - Morena" group-title="SERTANEJO", 029 - Luan Santana - Morena
+https://www.youtube.com/results?search_query=Luan%20Santana%20Morena%20clipe%20oficial
+#EXTINF:-1 tvg-name="030 - Diego & Victor Hugo - Tubarões" group-title="SERTANEJO", 030 - Diego & Victor Hugo - Tubarões
+https://www.youtube.com/results?search_query=Diego%20%26%20Victor%20Hugo%20Tubar%C3%B5es%20clipe%20oficial
+#EXTINF:-1 tvg-name="031 - Felipe & Rodrigo - Gosta de Rua" group-title="SERTANEJO", 031 - Felipe & Rodrigo - Gosta de Rua
+https://www.youtube.com/results?search_query=Felipe%20%26%20Rodrigo%20Gosta%20de%20Rua%20clipe%20oficial
+#EXTINF:-1 tvg-name="032 - Gusttavo Lima - Balada" group-title="SERTANEJO", 032 - Gusttavo Lima - Balada
+https://www.youtube.com/results?search_query=Gusttavo%20Lima%20Balada%20clipe%20oficial
+#EXTINF:-1 tvg-name="033 - Bruno & Marrone - Surto de Amor" group-title="SERTANEJO", 033 - Bruno & Marrone - Surto de Amor
+https://www.youtube.com/results?search_query=Bruno%20%26%20Marrone%20Surto%20de%20Amor%20clipe%20oficial
+#EXTINF:-1 tvg-name="034 - Lauana Prado - Escrito nas Estrelas" group-title="SERTANEJO", 034 - Lauana Prado - Escrito nas Estrelas
+https://www.youtube.com/results?search_query=Lauana%20Prado%20Escrito%20nas%20Estrelas%20clipe%20oficial
+#EXTINF:-1 tvg-name="035 - Luan Pereira - Dentro da Hilux" group-title="SERTANEJO", 035 - Luan Pereira - Dentro da Hilux
+https://www.youtube.com/results?search_query=Luan%20Pereira%20Dentro%20da%20Hilux%20clipe%20oficial
+#EXTINF:-1 tvg-name="036 - Maiara & Maraisa - Narcisista" group-title="SERTANEJO", 036 - Maiara & Maraisa - Narcisista
+https://www.youtube.com/results?search_query=Maiara%20%26%20Maraisa%20Narcisista%20clipe%20oficial
+#EXTINF:-1 tvg-name="037 - Matheus Fernandes & Matheus & Kauan - Triplex" group-title="SERTANEJO", 037 - Matheus Fernandes & Matheus & Kauan - Triplex
+https://www.youtube.com/results?search_query=Matheus%20Fernandes%20%26%20Matheus%20%26%20Kauan%20Triplex%20clipe%20oficial
+#EXTINF:-1 tvg-name="038 - Zé Neto & Cristiano - Barulho do Foguete" group-title="SERTANEJO", 038 - Zé Neto & Cristiano - Barulho do Foguete
+https://www.youtube.com/results?search_query=Z%C3%A9%20Neto%20%26%20Cristiano%20Barulho%20do%20Foguete%20clipe%20oficial
+#EXTINF:-1 tvg-name="039 - Leonardo - Talismã" group-title="SERTANEJO", 039 - Leonardo - Talismã
+https://www.youtube.com/results?search_query=Leonardo%20Talism%C3%A3%20clipe%20oficial
+#EXTINF:-1 tvg-name="040 - Chitãozinho & Xororó - Sinônimos" group-title="SERTANEJO", 040 - Chitãozinho & Xororó - Sinônimos
+https://www.youtube.com/results?search_query=Chit%C3%A3ozinho%20%26%20Xoror%C3%B3%20Sin%C3%B4nimos%20clipe%20oficial
+#EXTINF:-1 tvg-name="041 - Henrique & Juliano - Vidinha de Balada" group-title="SERTANEJO", 041 - Henrique & Juliano - Vidinha de Balada
+https://www.youtube.com/results?search_query=Henrique%20%26%20Juliano%20Vidinha%20de%20Balada%20clipe%20oficial
+#EXTINF:-1 tvg-name="042 - Simone Mendes - Dois Tristes" group-title="SERTANEJO", 042 - Simone Mendes - Dois Tristes
+https://www.youtube.com/results?search_query=Simone%20Mendes%20Dois%20Tristes%20clipe%20oficial
+#EXTINF:-1 tvg-name="043 - Edson & Hudson - Foi Deus" group-title="SERTANEJO", 043 - Edson & Hudson - Foi Deus
+https://www.youtube.com/results?search_query=Edson%20%26%20Hudson%20Foi%20Deus%20clipe%20oficial
+#EXTINF:-1 tvg-name="044 - Victor & Leo - Borboletas" group-title="SERTANEJO", 044 - Victor & Leo - Borboletas
+https://www.youtube.com/results?search_query=Victor%20%26%20Leo%20Borboletas%20clipe%20oficial
+#EXTINF:-1 tvg-name="045 - César Menotti & Fabiano - Leilão" group-title="SERTANEJO", 045 - César Menotti & Fabiano - Leilão
+https://www.youtube.com/results?search_query=C%C3%A9sar%20Menotti%20%26%20Fabiano%20Leil%C3%A3o%20clipe%20oficial
+#EXTINF:-1 tvg-name="046 - Amado Batista - Princesa" group-title="SERTANEJO", 046 - Amado Batista - Princesa
+https://www.youtube.com/results?search_query=Amado%20Batista%20Princesa%20clipe%20oficial
+#EXTINF:-1 tvg-name="047 - Rio Negro & Solimões - Frio da Madrugada" group-title="SERTANEJO", 047 - Rio Negro & Solimões - Frio da Madrugada
+https://www.youtube.com/results?search_query=Rio%20Negro%20%26%20Solim%C3%B5es%20Frio%20da%20Madrugada%20clipe%20oficial
+#EXTINF:-1 tvg-name="048 - Gian & Giovani - O Grande Amor da Minha Vida" group-title="SERTANEJO", 048 - Gian & Giovani - O Grande Amor da Minha Vida
+https://www.youtube.com/results?search_query=Gian%20%26%20Giovani%20O%20Grande%20Amor%20da%20Minha%20Vida%20clipe%20oficial
+#EXTINF:-1 tvg-name="049 - Rio Negro & Solimões - De São Paulo a Belém" group-title="SERTANEJO", 049 - Rio Negro & Solimões - De São Paulo a Belém
+https://www.youtube.com/results?search_query=Rio%20Negro%20%26%20Solim%C3%B5es%20De%20S%C3%A3o%20Paulo%20a%20Bel%C3%A9m%20clipe%20oficial
+#EXTINF:-1 tvg-name="050 - João Bosco & Vinícius - Chora, Me Liga" group-title="SERTANEJO", 050 - João Bosco & Vinícius - Chora, Me Liga
+https://www.youtube.com/results?search_query=Jo%C3%A3o%20Bosco%20%26%20Vin%C3%ADcius%20Chora%2C%20Me%20Liga%20clipe%20oficial
+#EXTINF:-1 tvg-name="051 - Bruno & Marrone - Choram as Rosas" group-title="SERTANEJO", 051 - Bruno & Marrone - Choram as Rosas
+https://www.youtube.com/results?search_query=Bruno%20%26%20Marrone%20Choram%20as%20Rosas%20clipe%20oficial
+#EXTINF:-1 tvg-name="052 - Zezé Di Camargo & Luciano - Dois Corações e Uma História" group-title="SERTANEJO", 052 - Zezé Di Camargo & Luciano - Dois Corações e Uma História
+https://www.youtube.com/results?search_query=Zez%C3%A9%20Di%20Camargo%20%26%20Luciano%20Dois%20Cora%C3%A7%C3%B5es%20e%20Uma%20Hist%C3%B3ria%20clipe%20oficial
+#EXTINF:-1 tvg-name="053 - Daniel - Adoro Amar Você" group-title="SERTANEJO", 053 - Daniel - Adoro Amar Você
+https://www.youtube.com/results?search_query=Daniel%20Adoro%20Amar%20Voc%C3%AA%20clipe%20oficial
+#EXTINF:-1 tvg-name="054 - João Mineiro & Marciano - Ainda Ontem Chorei de Saudade" group-title="SERTANEJO", 054 - João Mineiro & Marciano - Ainda Ontem Chorei de Saudade
+https://www.youtube.com/results?search_query=Jo%C3%A3o%20Mineiro%20%26%20Marciano%20Ainda%20Ontem%20Chorei%20de%20Saudade%20clipe%20oficial
+#EXTINF:-1 tvg-name="055 - Milionário & José Rico - Decida" group-title="SERTANEJO", 055 - Milionário & José Rico - Decida
+https://www.youtube.com/results?search_query=Milion%C3%A1rio%20%26%20Jos%C3%A9%20Rico%20Decida%20clipe%20oficial
+#EXTINF:-1 tvg-name="056 - Guilherme & Santiago - Meia-Noite e Meia" group-title="SERTANEJO", 056 - Guilherme & Santiago - Meia-Noite e Meia
+https://www.youtube.com/results?search_query=Guilherme%20%26%20Santiago%20Meia-Noite%20e%20Meia%20clipe%20oficial
+#EXTINF:-1 tvg-name="057 - Fernando & Sorocaba - Madri" group-title="SERTANEJO", 057 - Fernando & Sorocaba - Madri
+https://www.youtube.com/results?search_query=Fernando%20%26%20Sorocaba%20Madri%20clipe%20oficial
+#EXTINF:-1 tvg-name="058 - Victor & Leo - Deus e Eu no Sertão" group-title="SERTANEJO", 058 - Victor & Leo - Deus e Eu no Sertão
+https://www.youtube.com/results?search_query=Victor%20%26%20Leo%20Deus%20e%20Eu%20no%20Sert%C3%A3o%20clipe%20oficial
+#EXTINF:-1 tvg-name="059 - César Menotti & Fabiano - Como Um Anjo" group-title="SERTANEJO", 059 - César Menotti & Fabiano - Como Um Anjo
+https://www.youtube.com/results?search_query=C%C3%A9sar%20Menotti%20%26%20Fabiano%20Como%20Um%20Anjo%20clipe%20oficial
+#EXTINF:-1 tvg-name="060 - Edson & Hudson - Azul" group-title="SERTANEJO", 060 - Edson & Hudson - Azul
+https://www.youtube.com/results?search_query=Edson%20%26%20Hudson%20Azul%20clipe%20oficial
+#EXTINF:-1 tvg-name="061 - Marília Mendonça - Todo Mundo Vai Sofrer" group-title="SERTANEJO", 061 - Marília Mendonça - Todo Mundo Vai Sofrer
+https://www.youtube.com/results?search_query=Mar%C3%ADlia%20Mendon%C3%A7a%20Todo%20Mundo%20Vai%20Sofrer%20clipe%20oficial
+#EXTINF:-1 tvg-name="062 - Maiara & Maraisa - Medo Bobo" group-title="SERTANEJO", 062 - Maiara & Maraisa - Medo Bobo
+https://www.youtube.com/results?search_query=Maiara%20%26%20Maraisa%20Medo%20Bobo%20clipe%20oficial
+#EXTINF:-1 tvg-name="063 - Naiara Azevedo - Ex do Seu Atual" group-title="SERTANEJO", 063 - Naiara Azevedo - Ex do Seu Atual
+https://www.youtube.com/results?search_query=Naiara%20Azevedo%20Ex%20do%20Seu%20Atual%20clipe%20oficial
+#EXTINF:-1 tvg-name="064 - Paula Fernandes - Pássaro de Fogo" group-title="SERTANEJO", 064 - Paula Fernandes - Pássaro de Fogo
+https://www.youtube.com/results?search_query=Paula%20Fernandes%20P%C3%A1ssaro%20de%20Fogo%20clipe%20oficial
+#EXTINF:-1 tvg-name="065 - Roberta Miranda - Majestade, o Sabiá" group-title="SERTANEJO", 065 - Roberta Miranda - Majestade, o Sabiá
+https://www.youtube.com/results?search_query=Roberta%20Miranda%20Majestade%2C%20o%20Sabi%C3%A1%20clipe%20oficial
+#EXTINF:-1 tvg-name="066 - Rio Negro & Solimões - Na Sola da Bota" group-title="SERTANEJO", 066 - Rio Negro & Solimões - Na Sola da Bota
+https://www.youtube.com/results?search_query=Rio%20Negro%20%26%20Solim%C3%B5es%20Na%20Sola%20da%20Bota%20clipe%20oficial
+#EXTINF:-1 tvg-name="067 - Teodoro & Sampaio - Paixão Proibida" group-title="SERTANEJO", 067 - Teodoro & Sampaio - Paixão Proibida
+https://www.youtube.com/results?search_query=Teodoro%20%26%20Sampaio%20Paix%C3%A3o%20Proibida%20clipe%20oficial
+#EXTINF:-1 tvg-name="068 - Gusttavo Lima - Apelido Carinhoso" group-title="SERTANEJO", 068 - Gusttavo Lima - Apelido Carinhoso
+https://www.youtube.com/results?search_query=Gusttavo%20Lima%20Apelido%20Carinhoso%20clipe%20oficial
+#EXTINF:-1 tvg-name="069 - Henrique & Juliano - Cuida Bem Dela" group-title="SERTANEJO", 069 - Henrique & Juliano - Cuida Bem Dela
+https://www.youtube.com/results?search_query=Henrique%20%26%20Juliano%20Cuida%20Bem%20Dela%20clipe%20oficial
+#EXTINF:-1 tvg-name="070 - Jorge & Mateus - Amo Noite e Dia" group-title="SERTANEJO", 070 - Jorge & Mateus - Amo Noite e Dia
+https://www.youtube.com/results?search_query=Jorge%20%26%20Mateus%20Amo%20Noite%20e%20Dia%20clipe%20oficial
+#EXTINF:-1 tvg-name="071 - Luan Santana - Meteoro" group-title="SERTANEJO", 071 - Luan Santana - Meteoro
+https://www.youtube.com/results?search_query=Luan%20Santana%20Meteoro%20clipe%20oficial
+#EXTINF:-1 tvg-name="072 - Michel Teló - Ai Se Eu Te Pego" group-title="SERTANEJO", 072 - Michel Teló - Ai Se Eu Te Pego
+https://www.youtube.com/results?search_query=Michel%20Tel%C3%B3%20Ai%20Se%20Eu%20Te%20Pego%20clipe%20oficial
+#EXTINF:-1 tvg-name="073 - João Bosco & Vinícius - Amiga Linda" group-title="SERTANEJO", 073 - João Bosco & Vinícius - Amiga Linda
+https://www.youtube.com/results?search_query=Jo%C3%A3o%20Bosco%20%26%20Vin%C3%ADcius%20Amiga%20Linda%20clipe%20oficial
+#EXTINF:-1 tvg-name="074 - Cristiano Araújo - Caso Indefinido" group-title="SERTANEJO", 074 - Cristiano Araújo - Caso Indefinido
+https://www.youtube.com/results?search_query=Cristiano%20Ara%C3%BAjo%20Caso%20Indefinido%20clipe%20oficial
+#EXTINF:-1 tvg-name="075 - João Carreiro & Capataz - Bruto, Rústico e Sistemático" group-title="SERTANEJO", 075 - João Carreiro & Capataz - Bruto, Rústico e Sistemático
+https://www.youtube.com/results?search_query=Jo%C3%A3o%20Carreiro%20%26%20Capataz%20Bruto%2C%20R%C3%BAstico%20e%20Sistem%C3%A1tico%20clipe%20oficial
+#EXTINF:-1 tvg-name="076 - Gusttavo Lima - Ficha Limpa" group-title="SERTANEJO", 076 - Gusttavo Lima - Ficha Limpa
+https://www.youtube.com/results?search_query=Gusttavo%20Lima%20Ficha%20Limpa%20clipe%20oficial
+#EXTINF:-1 tvg-name="077 - Henrique & Juliano - Liberdade Provisória" group-title="SERTANEJO", 077 - Henrique & Juliano - Liberdade Provisória
+https://www.youtube.com/results?search_query=Henrique%20%26%20Juliano%20Liberdade%20Provis%C3%B3ria%20clipe%20oficial
+#EXTINF:-1 tvg-name="078 - Zé Neto & Cristiano - Notificação Preferida" group-title="SERTANEJO", 078 - Zé Neto & Cristiano - Notificação Preferida
+https://www.youtube.com/results?search_query=Z%C3%A9%20Neto%20%26%20Cristiano%20Notifica%C3%A7%C3%A3o%20Preferida%20clipe%20oficial
+#EXTINF:-1 tvg-name="079 - Jorge & Mateus - Sosseguei" group-title="SERTANEJO", 079 - Jorge & Mateus - Sosseguei
+https://www.youtube.com/results?search_query=Jorge%20%26%20Mateus%20Sosseguei%20clipe%20oficial
+#EXTINF:-1 tvg-name="080 - Marília Mendonça - Eu Sei de Cor" group-title="SERTANEJO", 080 - Marília Mendonça - Eu Sei de Cor
+https://www.youtube.com/results?search_query=Mar%C3%ADlia%20Mendon%C3%A7a%20Eu%20Sei%20de%20Cor%20clipe%20oficial
+#EXTINF:-1 tvg-name="081 - Bruno & Marrone - Vida Vazia" group-title="SERTANEJO", 081 - Bruno & Marrone - Vida Vazia
+https://www.youtube.com/results?search_query=Bruno%20%26%20Marrone%20Vida%20Vazia%20clipe%20oficial
+#EXTINF:-1 tvg-name="082 - Leandro & Leonardo - Entre Tapas e Beijos" group-title="SERTANEJO", 082 - Leandro & Leonardo - Entre Tapas e Beijos
+https://www.youtube.com/results?search_query=Leandro%20%26%20Leonardo%20Entre%20Tapas%20e%20Beijos%20clipe%20oficial
+#EXTINF:-1 tvg-name="083 - Zezé Di Camargo & Luciano - No Dia em Que Eu Saí de Casa" group-title="SERTANEJO", 083 - Zezé Di Camargo & Luciano - No Dia em Que Eu Saí de Casa
+https://www.youtube.com/results?search_query=Zez%C3%A9%20Di%20Camargo%20%26%20Luciano%20No%20Dia%20em%20Que%20Eu%20Sa%C3%AD%20de%20Casa%20clipe%20oficial
+#EXTINF:-1 tvg-name="084 - Chitãozinho & Xororó - Fio de Cabelo" group-title="SERTANEJO", 084 - Chitãozinho & Xororó - Fio de Cabelo
+https://www.youtube.com/results?search_query=Chit%C3%A3ozinho%20%26%20Xoror%C3%B3%20Fio%20de%20Cabelo%20clipe%20oficial
+#EXTINF:-1 tvg-name="085 - Daniel - Estou Apaixonado" group-title="SERTANEJO", 085 - Daniel - Estou Apaixonado
+https://www.youtube.com/results?search_query=Daniel%20Estou%20Apaixonado%20clipe%20oficial
+#EXTINF:-1 tvg-name="086 - Rio Negro & Solimões - Peão Apaixonado" group-title="SERTANEJO", 086 - Rio Negro & Solimões - Peão Apaixonado
+https://www.youtube.com/results?search_query=Rio%20Negro%20%26%20Solim%C3%B5es%20Pe%C3%A3o%20Apaixonado%20clipe%20oficial
+#EXTINF:-1 tvg-name="087 - Eduardo Costa - Amores Imortais" group-title="SERTANEJO", 087 - Eduardo Costa - Amores Imortais
+https://www.youtube.com/results?search_query=Eduardo%20Costa%20Amores%20Imortais%20clipe%20oficial
+#EXTINF:-1 tvg-name="088 - Paula Fernandes - Jeito de Mato" group-title="SERTANEJO", 088 - Paula Fernandes - Jeito de Mato
+https://www.youtube.com/results?search_query=Paula%20Fernandes%20Jeito%20de%20Mato%20clipe%20oficial
+#EXTINF:-1 tvg-name="089 - Luan Santana - Chuva de Arroz" group-title="SERTANEJO", 089 - Luan Santana - Chuva de Arroz
+https://www.youtube.com/results?search_query=Luan%20Santana%20Chuva%20de%20Arroz%20clipe%20oficial
+#EXTINF:-1 tvg-name="090 - Fernando & Sorocaba - Paga Pau" group-title="SERTANEJO", 090 - Fernando & Sorocaba - Paga Pau
+https://www.youtube.com/results?search_query=Fernando%20%26%20Sorocaba%20Paga%20Pau%20clipe%20oficial
+#EXTINF:-1 tvg-name="091 - Michel Teló - Fugidinha" group-title="SERTANEJO", 091 - Michel Teló - Fugidinha
+https://www.youtube.com/results?search_query=Michel%20Tel%C3%B3%20Fugidinha%20clipe%20oficial
+#EXTINF:-1 tvg-name="092 - Cristiano Araújo - Maus Bocados" group-title="SERTANEJO", 092 - Cristiano Araújo - Maus Bocados
+https://www.youtube.com/results?search_query=Cristiano%20Ara%C3%BAjo%20Maus%20Bocados%20clipe%20oficial
+#EXTINF:-1 tvg-name="093 - Maiara & Maraisa - Sorte Que Cê Beija Bem" group-title="SERTANEJO", 093 - Maiara & Maraisa - Sorte Que Cê Beija Bem
+https://www.youtube.com/results?search_query=Maiara%20%26%20Maraisa%20Sorte%20Que%20C%C3%AA%20Beija%20Bem%20clipe%20oficial
+#EXTINF:-1 tvg-name="094 - Simone & Simaria - Regime Fechado" group-title="SERTANEJO", 094 - Simone & Simaria - Regime Fechado
+https://www.youtube.com/results?search_query=Simone%20%26%20Simaria%20Regime%20Fechado%20clipe%20oficial
+#EXTINF:-1 tvg-name="095 - Lauana Prado - Cobaia" group-title="SERTANEJO", 095 - Lauana Prado - Cobaia
+https://www.youtube.com/results?search_query=Lauana%20Prado%20Cobaia%20clipe%20oficial
+#EXTINF:-1 tvg-name="096 - Ana Castela - Solteiro Forçado" group-title="SERTANEJO", 096 - Ana Castela - Solteiro Forçado
+https://www.youtube.com/results?search_query=Ana%20Castela%20Solteiro%20For%C3%A7ado%20clipe%20oficial
+#EXTINF:-1 tvg-name="097 - Gusttavo Lima - Cem Mil" group-title="SERTANEJO", 097 - Gusttavo Lima - Cem Mil
+https://www.youtube.com/results?search_query=Gusttavo%20Lima%20Cem%20Mil%20clipe%20oficial
+#EXTINF:-1 tvg-name="098 - Henrique & Juliano - Recaídas" group-title="SERTANEJO", 098 - Henrique & Juliano - Recaídas
+https://www.youtube.com/results?search_query=Henrique%20%26%20Juliano%20Reca%C3%ADdas%20clipe%20oficial
+#EXTINF:-1 tvg-name="099 - Matheus & Kauan - Que Sorte a Nossa" group-title="SERTANEJO", 099 - Matheus & Kauan - Que Sorte a Nossa
+https://www.youtube.com/results?search_query=Matheus%20%26%20Kauan%20Que%20Sorte%20a%20Nossa%20clipe%20oficial
+#EXTINF:-1 tvg-name="100 - Bruno & Marrone - Por Um Minuto" group-title="SERTANEJO", 100 - Bruno & Marrone - Por Um Minuto
+https://www.youtube.com/results?search_query=Bruno%20%26%20Marrone%20Por%20Um%20Minuto%20clipe%20oficial
